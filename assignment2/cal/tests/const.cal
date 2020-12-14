@@ -1,0 +1,7 @@
+main
+begin
+
+constant i:integer := 9;
+constant j:boolean := true;
+constant k:integer := j + 1;
+end

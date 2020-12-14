@@ -1,0 +1,9 @@
+main
+begin
+variable i:integer;
+variable j:boolean;
+variable k:integer;
+i := 60;
+j := true;
+k := i + j;
+end

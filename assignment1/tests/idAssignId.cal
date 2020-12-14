@@ -1,0 +1,12 @@
+main
+begin
+a := 1;
+b := 2;
+c := 3;
+d := 4;
+
+plus := a + b + c + d;
+sub := a - b - c - d;
+both := a + b - c + d;
+
+end

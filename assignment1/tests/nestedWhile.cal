@@ -1,0 +1,15 @@
+main
+begin
+variable a:boolean;
+a := True;
+
+while (a = True)
+begin
+   a := False;
+   while (a = False)
+   begin
+        a := True;
+   end
+end
+
+end

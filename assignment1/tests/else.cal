@@ -1,0 +1,14 @@
+main
+begin
+
+if (x = false)
+    begin
+    x := 69;
+    end
+
+else
+    begin
+    x := 200;
+    end
+
+end

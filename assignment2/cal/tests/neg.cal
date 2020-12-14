@@ -1,0 +1,16 @@
+main
+begin
+constant x:boolean := true;
+constant y:boolean := false;
+
+if  ~x = 0 & y = 0
+    begin
+        x := 69;
+    end
+
+else
+begin
+    x := 200;
+end
+
+end

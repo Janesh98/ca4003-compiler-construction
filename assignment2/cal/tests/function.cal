@@ -1,0 +1,14 @@
+integer test_fn (x:integer) is
+    variable result : integer;
+    variable minus_sign : boolean;
+begin
+    result := 69;
+    return (result);
+end
+
+main
+begin
+    constant i:integer := 1;
+
+    i := test_fn(i);
+end

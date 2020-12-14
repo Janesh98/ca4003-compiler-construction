@@ -1,0 +1,9 @@
+main
+begin
+
+constant a:integer := 1;
+constant b:integer := 1;
+
+constant c:integer := a + b;
+
+end

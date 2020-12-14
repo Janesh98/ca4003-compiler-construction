@@ -1,0 +1,11 @@
+main
+begin
+x := true;
+
+if (x = true)
+    begin
+    x := 69;
+    end
+
+write(x);
+end

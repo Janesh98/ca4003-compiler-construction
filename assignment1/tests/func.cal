@@ -1,0 +1,14 @@
+integer test_fn (a:integer, b:integer, c:boolean ) is
+    variable i:integer;
+begin
+    a := 2 ;
+    return (a + 2);
+end
+
+main
+begin
+a := 1;
+b := 2;
+c := True;
+i := testfn (a, b, c);
+end

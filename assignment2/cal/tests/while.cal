@@ -1,0 +1,12 @@
+main
+begin
+
+variable sum:integer;
+sum := 0;
+
+while (sum < 10)
+begin
+   sum := sum + 1;
+end
+
+end

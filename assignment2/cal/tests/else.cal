@@ -1,0 +1,16 @@
+main
+begin
+
+constant x:integer := 1;
+
+if x = 2
+begin
+    x := 69;
+end
+
+else
+begin
+    x := 200;
+end
+
+end

@@ -1,0 +1,7 @@
+main
+begin
+
+variable i:integer;
+
+i := 0;
+end

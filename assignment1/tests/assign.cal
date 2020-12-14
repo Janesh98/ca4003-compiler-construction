@@ -1,0 +1,11 @@
+main
+begin
+variable i:integer;
+variable j:integer;
+variable k:integer;
+i := 2;
+j := 10;
+
+k := j - i;
+
+end

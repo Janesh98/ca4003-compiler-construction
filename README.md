@@ -1,5 +1,5 @@
 # ca4003-compiler-construction
-● Created a new programming language with Java and ANTLR.
+● Created a new programming language with Java and ANTLR which compiles down to three address code.
 
 ● Developed a symbol table and a lexical and syntax analyser.
 
